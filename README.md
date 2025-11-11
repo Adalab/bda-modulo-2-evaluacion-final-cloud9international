@@ -1,4 +1,3 @@
-**DRAFT README -- UPDATE and EDIT later **************
 # Final Evaluation – Module 2 (Data Analytics & AI · Adalab)
 
 ## Objective / Objetivo
@@ -66,6 +65,7 @@ WHERE rating = 'PG-13';
    ```sql
    SOURCE sakila-schema.sql;
    SOURCE sakila-data.sql;
+   Provided by ADALAB / Proporcionado por ADALAB.
    ```
 
 3. **Open and execute the script** `evaluacion_final-modulo-2-data-analytics-claudia-cervantes-lecours.sql`.  
